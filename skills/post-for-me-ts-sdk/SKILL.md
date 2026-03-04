@@ -9,6 +9,14 @@ description: How to use the post-for-me Typescript SDK. For access to more infor
 
 The Post For Me SDK enables cross-platform social media posting to Instagram, Facebook, TikTok, YouTube, Twitter/X, LinkedIn, Pinterest, Bluesky, and Threads. Create posts once and publish to multiple platforms simultaneously with platform-specific customizations.
 
+## Installation
+
+Install the Post For Me TypeScript SDK from npm:
+
+```bash
+npm install post-for-me
+```
+
 ## Core Concepts
 
 - **Social Accounts**: Connected platform accounts that can receive posts
